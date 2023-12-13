@@ -13,6 +13,10 @@ Central to the thesis is an innovative art installation that utilizes the Stable
 
 The installation's impact is multifaceted, eliciting reactions ranging from shock and empathy to reflection and discomfort among participants. These varied responses underscore the effectiveness of the project in raising awareness about the responsible use of AI and the pressing need for ethical considerations in technology deployment. The thesis concludes with the assertion that artistic interventions using image generation models can serve as a potent medium for addressing the societal implications of deepfake technology, thereby promoting critical discourse and awareness.
 
+# Project Video
+
+### [Youtube Link](https://youtu.be/XkdZirS28xk)
+
 # Project Journal
 
 ### Please Refer to the [Link to pdf](./Final%20Journal.pdf) in the github folder
