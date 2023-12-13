@@ -5,11 +5,15 @@ Qi Chen
 
 # Project
 
-# A Image Generation Model-based Art Intervention to Expose the Harm of Deepfake Pornography
+## A Image Generation Model-based Art Intervention to Expose the Harm of Deepfake Pornography
+
+# Project Journal
+
+## <span style="color:red">Please Refer to the Final Journal.pdf in the github folder</span>
 
 ![printed photo](image.jpg)
 
-## Abstract
+# Abstract
 
 The project is rooted in personal experience, stemming from an alarming encounter with a digital scam involving fabricated pornographic material. This incident not only underscores the widespread and psychologically damaging nature of such scams but also serves as a catalyst for the research. The thesis methodically explores the technical landscape of deepfake technology, including an analysis of Generative Adversarial Networks (GANs), CycleGAN, DeepNude, and Diffusion Models. This exploration provides a foundational understanding of the mechanisms behind the creation of deepfake content.
 
